@@ -36,9 +36,51 @@ Start the server script and check for errors.
 Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Top 5 Revenue Generating Software Companies</title>
+</head>
+<body>
+    <table>
+        <caption>Top 5 Revenue Generating Software Companies</caption>
+        <tr>
+            <th>s.no</th>
+            <th>companies</th>
+            <th>revenue</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Microsoft</td>
+            <td>65 billion</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Oracle</td>
+            <td>29.6 billion</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>IBM</td>
+            <td>29.1 billion</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>SAP</td>
+            <td>6.4 billion</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Symantec</td>
+            <td>5.6 billion</td>
+        </tr>
+    </table>
+</body>
+</html>
 
 ## OUTPUT:
+<img width="1462" height="947" alt="Screenshot 2026-10-22 105310" src="https://github.com/user-attachments/assets/f17f270e-3285-4dec-b933-7494ec9457d6" />
+<img width="1061" height="637" alt="Screenshot 2026-10-22 105001" src="https://github.com/user-attachments/assets/5c1d6104-a132-4e3a-80a4-3e3f349947ac" />
 
 
 ## RESULT:
